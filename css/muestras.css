@@ -1,0 +1,25 @@
+.muestras1{
+    width: auto;
+    height: 17rem;
+    margin-top: 1rem;
+    background-color: coral;
+
+    display: flex;
+    flex-direction: row;
+}
+.cja1{
+    width: 10rem;
+    height: 15rem;
+    margin: 0.5rem;
+    background-color: crimson;
+}
+
+.muestras2{
+    width: auto;
+    height: 17rem;
+    margin-top: 1rem;
+    background-color: coral;
+
+    display: flex;
+    flex-direction: row;
+}

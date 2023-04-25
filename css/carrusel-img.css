@@ -1,0 +1,16 @@
+.segunda{
+    margin-top: 0.5rem;
+    width: auto;
+    height: 15rem;
+    background-color: yellow;
+
+    display: flex;
+    flex-direction: row;
+}
+.img1{
+    width: 9rem;
+    height: 9rem;
+    margin-top: 2.5rem;
+    margin-left: 0.3rem;
+    background-color: aqua;
+}
