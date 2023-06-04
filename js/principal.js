@@ -1,5 +1,5 @@
-function inicio(){
-    let componentes =
+function primera_parte(){
+    let elementos =
     `
     <button>
        <a href="./index2.html">FunkoWeb</a>
@@ -10,8 +10,8 @@ function inicio(){
 
   let inicio_de_tienda = document.querySelector(".caja-pa");
 
-  inicio_de_tienda.innerHTML = componentes;
+  inicio_de_tienda.innerHTML = elementos;
 
 }
 
-inicio();
+primera_parte();
