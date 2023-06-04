@@ -1,22 +1,14 @@
 * {
     margin: 0;
     padding: 0;
+    width: 375px;
     box-sizing: border-box;
 }
-
-/*
 :root {
-    --color1: #3D6697;
-    --color2: #E5E5E5;
-    --color3: #C4C4C4;
-    --color4: #FFFFFF;
-    --color5: #000000;
+    --color1: #1e1e1e;
 }
-*/
 
 html, body {
-
     font-size: 10px;
-    font-family: 'Bruno Ace', cursive;
-    
+    font-family: 'Prompt', sans-serif;
 }

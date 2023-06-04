@@ -1,0 +1,50 @@
+.caja-pa{
+    width: auto;
+    height: auto;
+    background-color: brown;
+}
+
+button {
+    width: 20rem;
+    margin-top: 8rem;
+    margin-left: 8rem;
+    padding: 1.25rem 3rem;
+    font-size: 2rem;
+    border: none;
+    border-radius: 2rem;
+    transition: 0.5s;
+    background: var(--color1);   
+    box-shadow: 0 0 10px #363636, inset 0 0 10px #363636;
+  }
+
+  a{
+    text-decoration: none;
+    color: greenyellow;
+  }
+  
+  button:hover {
+    animation: a 0.5s 1 linear;
+  }
+  
+  @keyframes a {
+    0% {
+      transform: scale(0.7, 1.3);
+    }
+  
+    25% {
+      transform: scale(1.3, 0.7);
+    }
+  
+    50% {
+      transform: scale(0.7, 1.3);
+    }
+  
+    75% {
+      transform: scale(1.3, 0.7);
+    }
+  
+    100% {
+      transform: scale(1, 1);
+    }
+}
+/*------------------------------------------------------------------*/
