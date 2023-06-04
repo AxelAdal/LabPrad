@@ -1,15 +1,23 @@
 .caja-pa{
     width: auto;
     height: auto;
-    background-color: brown;
+    margin-top: 8rem;
+    align-items: center;
+}
+/*-----------------------------------------------------*/
+.titulo{
+      text-align: center;
+      font-size: 6rem;
+      font-family: 'Rubik Puddles', cursive;
 }
 
 button {
     width: 20rem;
-    margin-top: 8rem;
+    margin-top: 6rem;
     margin-left: 8rem;
     padding: 1.25rem 3rem;
     font-size: 2rem;
+    outline: none;
     border: none;
     border-radius: 2rem;
     transition: 0.5s;
@@ -48,3 +56,15 @@ button {
     }
 }
 /*------------------------------------------------------------------*/
+.animado{
+  width: 30rem;
+  height: 28rem;
+  margin-left: 4rem;
+}
+.animado img{
+  height: 25rem;
+  width: 22rem;
+  margin-left: 3rem;
+  margin-top: 3rem;
+
+}

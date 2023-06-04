@@ -1,12 +1,13 @@
 function primera_parte(){
     let elementos =
-    `
-    <button>
+    `<h1 class="titulo">FunkiLand</h1>
+      <button>
        <a href="./index2.html">FunkoWeb</a>
-    </button>
-    
-   
-    `;
+      </button>
+      <div class="animado">
+      <img src="./img/XOsX.gif" alt="">
+      </div>
+      `;
 
   let inicio_de_tienda = document.querySelector(".caja-pa");
 
