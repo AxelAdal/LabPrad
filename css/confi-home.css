@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    width: 375px;
+    box-sizing: border-box;
+}
+:root {
+    --color1: #1e1e1e;
+}
+
+html, body {
+    font-size: 10px;
+    font-family: 'Prompt', sans-serif;
+}
