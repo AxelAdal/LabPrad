@@ -68,3 +68,37 @@ button {
   margin-top: 3rem;
 
 }
+@media only screen and (min-width: 1366px) {
+  .caja-pa{
+    margin-top: 4rem;
+    margin-left: 35rem;
+  }
+/*-----------------------------------------------------*/
+  .titulo{
+      font-size: 12rem;
+  }
+
+  button {
+    width: 35rem;
+    margin-top: 6rem;
+    margin-left: 16rem;
+    font-size: 3rem;
+    font-family: 'Roboto Slab', serif;
+    border-radius: 4rem;
+    transition: 0.5s;
+    background: var(--color1);   
+    box-shadow: 0 0 10px #ece5e5, inset 0 0 10px #c5aaaa;
+  }
+  .animado{
+    width: 40rem;
+    height: 38rem;
+    margin-left: 13rem;
+  }
+  .animado img{
+    height: 35rem;
+    width: 32rem;
+    margin-left: 4rem;
+    margin-top: 3rem;
+  
+  }
+}
