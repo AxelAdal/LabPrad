@@ -38,8 +38,12 @@ Para el pading en el caso del responsive
 box-sizing: border-box;
 */
 /***********************************************************/
-@media only screen and (max-width: 375px){
-    .inicio h1{
+@media only screen and (max-width: 1280px){
+  
+}
+
+@media only screen and (max-width: 450px){
+     .inicio h1{
         margin-top: 5rem;
         font-size: 3rem;
     }
