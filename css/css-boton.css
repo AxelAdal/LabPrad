@@ -42,3 +42,9 @@ button {
       transform: scale(1, 1);
     }
   }
+
+  @media only screen and (max-width: 375px){
+    button {
+     margin-top: 4rem;
+    }
+}

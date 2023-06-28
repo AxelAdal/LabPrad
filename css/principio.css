@@ -43,4 +43,9 @@ box-sizing: border-box;
         margin-top: 5rem;
         font-size: 3rem;
     }
+
+    img{
+        margin-top: 4rem;
+        width: 20rem;
+    }
 }
