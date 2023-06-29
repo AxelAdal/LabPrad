@@ -1,0 +1,68 @@
+.fondo{
+    width: 100%;
+    height: 10rem;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: rgb(128, 34, 145);
+
+    display: flex;
+    flex-direction: row;
+
+}
+.region{
+    width: 6%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    height: 80%;
+    background-color: black;
+    border: 0.5rem color blue;
+}
+.links{
+    text-decoration: none;
+    color: black;
+    font-size: 4rem;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+.car{
+    width: 10%;
+    height: auto;
+}
+.bas{
+    width: 10%;
+}
+.logue{
+    margin-top: 2rem;
+    width: 50%;
+    height: 20rem;
+
+}
+@media only screen and (max-width: 1280px){
+    .region{
+        margin-left: 1rem;
+    }
+    
+    
+    .car{
+        width: auto;
+    }
+
+    .bas{
+        width: 10%;
+    }
+
+    .logue{
+        margin-top: 4rem;
+        width: 100%;
+        height: 15rem;
+    }
+}
+@media only screen and (max-width: 500px){
+    .logue{
+        margin-top: 2rem;
+        width: 100%;
+        height: auto;
+    }
+}
