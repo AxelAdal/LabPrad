@@ -51,7 +51,7 @@
         height: 15rem;
     }
 }
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 800px){
     .logue{
         margin-top: 2rem;
         width: 100%;
