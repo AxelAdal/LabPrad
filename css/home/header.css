@@ -9,22 +9,14 @@
     flex-direction: row;
 
 }
-.region{
-    width: 6%;
-    margin-left: 0.5%;
-    margin-top: 0.5%;
-    height: 80%;
-    background-color: black;
-    border: 0.5rem color blue;
-}
 .links{
     text-decoration: none;
     color: black;
-    font-size: 4rem;
+    font-size: 3rem;
     padding: 8px;
     box-sizing: border-box;
-    margin-top: 1rem;
-    margin-left: 2rem;
+    margin-top: 1.5rem;
+    margin-left: 1rem;
 }
 .car{
     width: 10%;
