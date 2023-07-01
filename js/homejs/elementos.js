@@ -17,7 +17,7 @@ function primera_parte(){
     </ul>
   </nav>
 
-    <input type="text" autocomplete="off" name="text" class="input" placeholder="Busqueda">
+    
     <a class="links" href="">Productos</a>
     <a class="links" href="">Ofertas</a>
     
